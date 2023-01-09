@@ -10,6 +10,8 @@ These files are released to the world under a 'free not fee' open-source license
 
     1.  They are not modified whatsoever.
     
+    2.  They are not sold, commercialized, or used in any manner which results in financial gain.  
+    
     
 Enjoy!
 
